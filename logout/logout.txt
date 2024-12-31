@@ -1,0 +1,28 @@
+2024-12-29 16:37:09,243 - INFO - Starting the WebDriver session...
+2024-12-29 16:37:11,314 - INFO - WebDriver initialized successfully.
+2024-12-29 16:37:11,695 - INFO - Navigated to Agoda website.
+2024-12-29 16:37:22,092 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF715ACFB05+28789]
+	(No symbol) [0x00007FF715A386E0]
+	(No symbol) [0x00007FF7158D592A]
+	(No symbol) [0x00007FF71592930E]
+	(No symbol) [0x00007FF7159295FC]
+	(No symbol) [0x00007FF7159728A7]
+	(No symbol) [0x00007FF71594F47F]
+	(No symbol) [0x00007FF71596F654]
+	(No symbol) [0x00007FF71594F1E3]
+	(No symbol) [0x00007FF71591A938]
+	(No symbol) [0x00007FF71591BAA1]
+	GetHandleVerifier [0x00007FF715E0933D+3410093]
+	GetHandleVerifier [0x00007FF715E1E7DD+3497293]
+	GetHandleVerifier [0x00007FF715E12A73+3448803]
+	GetHandleVerifier [0x00007FF715B97BBB+848171]
+	(No symbol) [0x00007FF715A43C3F]
+	(No symbol) [0x00007FF715A3F6E4]
+	(No symbol) [0x00007FF715A3F87D]
+	(No symbol) [0x00007FF715A2ED49]
+	BaseThreadInitThunk [0x00007FFD4F4FE8D7+23]
+	RtlUserThreadStart [0x00007FFD4FE7FBCC+44]
+
+2024-12-29 16:37:24,486 - INFO - WebDriver session closed.

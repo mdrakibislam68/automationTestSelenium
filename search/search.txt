@@ -1,0 +1,205 @@
+2024-12-29 17:01:19,600 - INFO - Starting the WebDriver session...
+2024-12-29 17:01:21,151 - INFO - WebDriver initialized successfully.
+2024-12-29 17:01:24,570 - INFO - Navigated to Agoda website.
+2024-12-29 17:01:55,015 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF715ACFB05+28789]
+	(No symbol) [0x00007FF715A386E0]
+	(No symbol) [0x00007FF7158D592A]
+	(No symbol) [0x00007FF71592930E]
+	(No symbol) [0x00007FF7159295FC]
+	(No symbol) [0x00007FF7159728A7]
+	(No symbol) [0x00007FF71594F47F]
+	(No symbol) [0x00007FF71596F654]
+	(No symbol) [0x00007FF71594F1E3]
+	(No symbol) [0x00007FF71591A938]
+	(No symbol) [0x00007FF71591BAA1]
+	GetHandleVerifier [0x00007FF715E0933D+3410093]
+	GetHandleVerifier [0x00007FF715E1E7DD+3497293]
+	GetHandleVerifier [0x00007FF715E12A73+3448803]
+	GetHandleVerifier [0x00007FF715B97BBB+848171]
+	(No symbol) [0x00007FF715A43C3F]
+	(No symbol) [0x00007FF715A3F6E4]
+	(No symbol) [0x00007FF715A3F87D]
+	(No symbol) [0x00007FF715A2ED49]
+	BaseThreadInitThunk [0x00007FFD4F4FE8D7+23]
+	RtlUserThreadStart [0x00007FFD4FE7FBCC+44]
+
+2024-12-29 17:01:57,409 - INFO - WebDriver session closed.
+2024-12-29 17:02:05,111 - INFO - Starting the WebDriver session...
+2024-12-29 17:02:06,634 - INFO - WebDriver initialized successfully.
+2024-12-29 17:02:09,097 - INFO - Navigated to Agoda website.
+2024-12-29 17:03:23,837 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF715ACFB05+28789]
+	(No symbol) [0x00007FF715A386E0]
+	(No symbol) [0x00007FF7158D592A]
+	(No symbol) [0x00007FF7158AF505]
+	(No symbol) [0x00007FF715956477]
+	(No symbol) [0x00007FF71596EF42]
+	(No symbol) [0x00007FF71594F1E3]
+	(No symbol) [0x00007FF71591A938]
+	(No symbol) [0x00007FF71591BAA1]
+	GetHandleVerifier [0x00007FF715E0933D+3410093]
+	GetHandleVerifier [0x00007FF715E1E7DD+3497293]
+	GetHandleVerifier [0x00007FF715E12A73+3448803]
+	GetHandleVerifier [0x00007FF715B97BBB+848171]
+	(No symbol) [0x00007FF715A43C3F]
+	(No symbol) [0x00007FF715A3F6E4]
+	(No symbol) [0x00007FF715A3F87D]
+	(No symbol) [0x00007FF715A2ED49]
+	BaseThreadInitThunk [0x00007FFD4F4FE8D7+23]
+	RtlUserThreadStart [0x00007FFD4FE7FBCC+44]
+
+2024-12-29 17:03:26,043 - INFO - WebDriver session closed.
+2024-12-29 17:03:34,845 - INFO - Starting the WebDriver session...
+2024-12-29 17:03:36,339 - INFO - WebDriver initialized successfully.
+2024-12-29 17:03:39,404 - INFO - Navigated to Agoda website.
+2024-12-29 17:04:09,612 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF715ACFB05+28789]
+	(No symbol) [0x00007FF715A386E0]
+	(No symbol) [0x00007FF7158D592A]
+	(No symbol) [0x00007FF71592930E]
+	(No symbol) [0x00007FF7159295FC]
+	(No symbol) [0x00007FF7159728A7]
+	(No symbol) [0x00007FF71594F47F]
+	(No symbol) [0x00007FF71596F654]
+	(No symbol) [0x00007FF71594F1E3]
+	(No symbol) [0x00007FF71591A938]
+	(No symbol) [0x00007FF71591BAA1]
+	GetHandleVerifier [0x00007FF715E0933D+3410093]
+	GetHandleVerifier [0x00007FF715E1E7DD+3497293]
+	GetHandleVerifier [0x00007FF715E12A73+3448803]
+	GetHandleVerifier [0x00007FF715B97BBB+848171]
+	(No symbol) [0x00007FF715A43C3F]
+	(No symbol) [0x00007FF715A3F6E4]
+	(No symbol) [0x00007FF715A3F87D]
+	(No symbol) [0x00007FF715A2ED49]
+	BaseThreadInitThunk [0x00007FFD4F4FE8D7+23]
+	RtlUserThreadStart [0x00007FFD4FE7FBCC+44]
+
+2024-12-29 17:04:11,974 - INFO - WebDriver session closed.
+2024-12-29 17:04:13,269 - INFO - Starting the WebDriver session...
+2024-12-29 17:04:14,748 - INFO - WebDriver initialized successfully.
+2024-12-29 17:04:16,915 - INFO - Navigated to Agoda website.
+2024-12-29 17:04:16,915 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:04:17,192 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:04:17,294 - INFO - Search initiated for 'Bogura'.
+2024-12-29 17:04:19,615 - INFO - WebDriver session closed.
+2024-12-29 17:04:43,441 - INFO - Starting the WebDriver session...
+2024-12-29 17:04:45,021 - INFO - WebDriver initialized successfully.
+2024-12-29 17:04:48,324 - INFO - Navigated to Agoda website.
+2024-12-29 17:04:48,324 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:04:48,545 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:04:48,572 - INFO - Search initiated for 'Bogura'.
+2024-12-29 17:04:48,573 - INFO - WebDriver session closed.
+2024-12-29 17:05:19,288 - INFO - Starting the WebDriver session...
+2024-12-29 17:05:20,792 - INFO - WebDriver initialized successfully.
+2024-12-29 17:05:25,297 - INFO - Navigated to Agoda website.
+2024-12-29 17:05:25,298 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:05:26,244 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:05:26,919 - INFO - Search initiated for 'Bogura'.
+2024-12-29 17:05:26,919 - INFO - WebDriver session closed.
+2024-12-29 17:08:07,318 - INFO - Starting the WebDriver session...
+2024-12-29 17:08:08,672 - INFO - WebDriver initialized successfully.
+2024-12-29 17:08:11,343 - INFO - Navigated to Agoda website.
+2024-12-29 17:08:11,343 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:08:11,554 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:08:11,580 - INFO - Search initiated for 'Bogura'.
+2024-12-29 17:08:11,580 - INFO - WebDriver session remains open for debugging purposes.
+2024-12-29 17:08:54,363 - INFO - Starting the WebDriver session...
+2024-12-29 17:08:55,871 - INFO - WebDriver initialized successfully.
+2024-12-29 17:08:56,317 - INFO - Navigated to Agoda website.
+2024-12-29 17:08:56,317 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:08:58,397 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:08:58,428 - INFO - Search initiated for 'Bogura'.
+2024-12-29 17:08:58,428 - INFO - WebDriver session closed.
+2024-12-29 17:09:03,986 - INFO - Starting the WebDriver session...
+2024-12-29 17:09:05,449 - INFO - WebDriver initialized successfully.
+2024-12-29 17:09:07,712 - INFO - Navigated to Agoda website.
+2024-12-29 17:09:07,712 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:09:07,919 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:09:07,944 - INFO - Search initiated for 'Bogura'.
+2024-12-29 17:09:07,944 - INFO - WebDriver session closed.
+2024-12-29 17:18:55,985 - INFO - Starting the WebDriver session...
+2024-12-29 17:18:57,439 - INFO - WebDriver initialized successfully.
+2024-12-29 17:18:59,735 - INFO - Navigated to Agoda website.
+2024-12-29 17:18:59,735 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:18:59,940 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:19:01,217 - INFO - WebDriver session closed.
+2024-12-29 17:19:34,726 - INFO - Starting the WebDriver session...
+2024-12-29 17:19:36,251 - INFO - WebDriver initialized successfully.
+2024-12-29 17:19:38,839 - INFO - Navigated to Agoda website.
+2024-12-29 17:19:38,839 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:19:39,037 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:20:36,590 - INFO - Starting the WebDriver session...
+2024-12-29 17:20:38,047 - INFO - WebDriver initialized successfully.
+2024-12-29 17:20:38,418 - INFO - Navigated to Agoda website.
+2024-12-29 17:20:38,419 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:20:40,451 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:20:41,728 - INFO - search button clicked
+2024-12-29 17:23:13,714 - INFO - Starting the WebDriver session...
+2024-12-29 17:23:15,209 - INFO - WebDriver initialized successfully.
+2024-12-29 17:23:17,219 - INFO - Navigated to Agoda website.
+2024-12-29 17:23:17,219 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:23:17,509 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:23:18,873 - INFO - search button clicked
+2024-12-29 17:23:18,873 - INFO - Waiting for 30 seconds to allow observation of the results.
+2024-12-29 17:24:00,847 - INFO - Starting the WebDriver session...
+2024-12-29 17:24:02,262 - INFO - WebDriver initialized successfully.
+2024-12-29 17:24:04,639 - INFO - Navigated to Agoda website.
+2024-12-29 17:24:04,639 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:24:04,851 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:24:06,234 - INFO - search button clicked
+2024-12-29 17:24:06,234 - INFO - Waiting for 30 seconds to allow observation of the results.
+2024-12-29 17:25:30,920 - INFO - Starting the WebDriver session...
+2024-12-29 17:25:32,437 - INFO - WebDriver initialized successfully.
+2024-12-29 17:25:34,447 - INFO - Navigated to Agoda website.
+2024-12-29 17:25:34,447 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:25:34,677 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:25:36,066 - INFO - search button clicked
+2024-12-29 17:25:36,066 - INFO - Waiting for 30 seconds to allow observation of the results.
+2024-12-29 17:25:53,755 - INFO - Starting the WebDriver session...
+2024-12-29 17:25:55,370 - INFO - WebDriver initialized successfully.
+2024-12-29 17:25:55,839 - INFO - Navigated to Agoda website.
+2024-12-29 17:25:55,840 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:25:58,097 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:26:00,956 - ERROR - An error occurred: Message: element click intercepted: Element <button radius="M" data-selenium="searchButton" data-element-name="search-button" data-test="SearchButtonBox" class="Buttonstyled__ButtonStyled-sc-5gjk6l-0 iCZpGI Box-sc-kv6pi1-0 fDMIuA" color="primary">...</button> is not clickable at point (490, 514). Other element would receive the click: <li class="Suggestion__categoryName_container Suggestion__showHotelImageWrapper" data-selenium="suggestion-category-name">...</li>
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF715ACFB05+28789]
+	(No symbol) [0x00007FF715A386E0]
+	(No symbol) [0x00007FF7158D592A]
+	(No symbol) [0x00007FF715930FDE]
+	(No symbol) [0x00007FF71592EA7C]
+	(No symbol) [0x00007FF71592BC46]
+	(No symbol) [0x00007FF71592ABA1]
+	(No symbol) [0x00007FF71591CD60]
+	(No symbol) [0x00007FF71594F43A]
+	(No symbol) [0x00007FF71591C5B6]
+	(No symbol) [0x00007FF71594F650]
+	(No symbol) [0x00007FF71596F654]
+	(No symbol) [0x00007FF71594F1E3]
+	(No symbol) [0x00007FF71591A938]
+	(No symbol) [0x00007FF71591BAA1]
+	GetHandleVerifier [0x00007FF715E0933D+3410093]
+	GetHandleVerifier [0x00007FF715E1E7DD+3497293]
+	GetHandleVerifier [0x00007FF715E12A73+3448803]
+	GetHandleVerifier [0x00007FF715B97BBB+848171]
+	(No symbol) [0x00007FF715A43C3F]
+	(No symbol) [0x00007FF715A3F6E4]
+	(No symbol) [0x00007FF715A3F87D]
+	(No symbol) [0x00007FF715A2ED49]
+	BaseThreadInitThunk [0x00007FFD4F4FE8D7+23]
+	RtlUserThreadStart [0x00007FFD4FE7FBCC+44]
+
+2024-12-29 17:26:19,485 - INFO - Starting the WebDriver session...
+2024-12-29 17:26:20,974 - INFO - WebDriver initialized successfully.
+2024-12-29 17:26:21,355 - INFO - Navigated to Agoda website.
+2024-12-29 17:26:21,355 - INFO - Clicked on the search button to activate the input field.
+2024-12-29 17:26:23,646 - INFO - Entered the search term 'Bogura' successfully.
+2024-12-29 17:26:24,870 - INFO - search button clicked
+2024-12-29 17:26:24,870 - INFO - Waiting for 30 seconds to allow observation of the results.

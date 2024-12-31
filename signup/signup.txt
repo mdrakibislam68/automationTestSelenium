@@ -1,0 +1,35 @@
+2024-12-29 15:58:22,907 - INFO - Starting the WebDriver session...
+2024-12-29 15:58:24,502 - INFO - WebDriver initialized successfully.
+2024-12-29 15:58:24,912 - INFO - Navigated to Agoda website.
+2024-12-29 15:58:28,327 - INFO - Clicked on the 'Create account' button successfully.
+2024-12-29 15:58:30,658 - INFO - WebDriver session closed.
+2024-12-29 16:46:41,305 - INFO - Starting the WebDriver session...
+2024-12-29 16:46:42,782 - INFO - WebDriver initialized successfully.
+2024-12-29 16:46:46,533 - INFO - Navigated to Agoda website.
+2024-12-29 16:46:49,532 - INFO - Clicked on the 'Create account' button successfully.
+2024-12-29 16:46:51,918 - INFO - WebDriver session closed.
+2024-12-29 16:47:06,488 - INFO - Starting the WebDriver session...
+2024-12-29 16:47:07,992 - INFO - WebDriver initialized successfully.
+2024-12-29 16:47:16,010 - INFO - Navigated to Agoda website.
+2024-12-29 16:47:19,019 - INFO - Clicked on the 'Create account' button successfully.
+2024-12-29 16:47:19,019 - INFO - WebDriver session closed.
+2024-12-29 16:48:15,871 - INFO - Starting the WebDriver session...
+2024-12-29 16:48:17,433 - INFO - WebDriver initialized successfully.
+2024-12-29 16:48:19,708 - INFO - Navigated to Agoda website.
+2024-12-29 16:48:21,151 - INFO - Clicked on the 'Create account' button successfully.
+2024-12-29 16:48:21,151 - INFO - WebDriver session closed.
+2024-12-29 16:52:28,030 - INFO - Starting the WebDriver session...
+2024-12-29 16:52:29,575 - INFO - WebDriver initialized successfully.
+2024-12-29 16:52:31,945 - INFO - Navigated to Agoda website.
+2024-12-29 16:52:32,124 - INFO - Clicked on the 'Create account' button successfully.
+2024-12-29 16:52:32,124 - INFO - WebDriver session closed.
+2024-12-29 16:53:34,845 - INFO - Starting the WebDriver session...
+2024-12-29 16:53:36,336 - INFO - WebDriver initialized successfully.
+2024-12-29 16:53:38,956 - INFO - Navigated to Agoda website.
+2024-12-29 16:53:39,182 - INFO - Clicked on the 'Create account' button successfully.
+2024-12-29 16:53:39,182 - INFO - WebDriver session closed.
+2024-12-29 16:53:57,696 - INFO - Starting the WebDriver session...
+2024-12-29 16:53:59,164 - INFO - WebDriver initialized successfully.
+2024-12-29 16:54:01,699 - INFO - Navigated to Agoda website.
+2024-12-29 16:54:01,916 - INFO - Clicked on the 'Create account' button successfully.
+2024-12-29 16:54:01,916 - INFO - WebDriver session closed.
